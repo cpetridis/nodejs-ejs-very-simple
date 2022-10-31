@@ -19,5 +19,5 @@ http://localhost:3000/users/removeuser (remove a username) <br></br>
 
 Of course the above locations are accessible from the navigation menu on top of the page every time. <br></br>
 
-# NO CSS, sorry for the awful style
+# THERE IS NO CSS, sorry for the awful style
 
