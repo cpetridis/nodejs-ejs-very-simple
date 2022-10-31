@@ -13,7 +13,7 @@ Must have : express framework, ejs, nodemon (for autostart when saving)
 ```npm start``` 
 
 # Access the app
-http://localhost:3000/users/add-new (add some new usernames)
+http://localhost:3000/users/add-new (add some new usernames) <br></br>
 http://localhost:3000/users/showall (show the names, otherwise it says 'No users')
 http://localhost:3000/users/removeuser (remove a username)
 
